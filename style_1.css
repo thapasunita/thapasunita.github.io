@@ -13,17 +13,17 @@ body {
 
 @font-face {
     font-family: "CustomFont";
-    src: url("Saira/static/Saira-Light.ttf");
+    src: url("fonts/Saira-Light.ttf");
 }
 
 @font-face {
     font-family: "MediumFont";
-    src: url("Saira/static/Saira-Medium.ttf");
+    src: url("fonts/Saira-Medium.ttf");
 }
 
 @font-face {
     font-family: "BoldFont";
-    src: url("Saira/static/Saira-Bold.ttf");
+    src: url("fonts/Saira-Bold.ttf");
 }
 
 .dark {
