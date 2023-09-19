@@ -163,7 +163,10 @@ a {
 }
 
 @media (max-width: 991.98px) {
-    
+    .container{
+        width: 100%;
+        padding: 0px;
+    }
     .image-box img {
         height: 390px;
     }
@@ -195,7 +198,7 @@ a {
     }
 
     .image-box img {
-        height: 400px;
+        height: 350px;
     }
 
     .about {
